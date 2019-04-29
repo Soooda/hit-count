@@ -20,14 +20,21 @@ You will receive a letter grade as long as you are pounding your lovely mechanic
 and just like DMC, your rank will rise to SSS! YEET!
 
 Levels range through the following:
->>D - Dismal.
->>C - Crazy.
->>B - Badass.
->>A - Apocalyptic.
->>S - Savage.
->>SS - Sick skills.
->>SSS - smokin' sexy style.
+* D - Dismal.
+* C - Crazy.
+* B - Badass.
+* A - Apocalyptic.
+* S - Savage.
+* SS - Sick skills.
+* SSS - smokin' sexy style.
+
+At the end, my aim is to recreate the animation exactly the same as DMC in Atom. But yea, probably it is not
+to late for me to start reading how to write HELLO WORLD in Javascript. :yum:
+
 ### Settings
+[Waiting for update]
 
 ### Customization
+[Waiting for update]
+
 ![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
