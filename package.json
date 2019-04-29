@@ -1,14 +1,24 @@
 {
   "name": "hit-count",
   "main": "./lib/hit-count",
-  "version": "0.0.0",
-  "description": "A short description of your package",
+  "version": "0.0.1",
+  "description": "Provide feedback towards the number of hits to motivate your programming experience",
+  "author": {
+    "name": "Hilbert Kong孔亮",
+    "email": "kongliangxm@foxmail.com",
+    "url": "https://github.com/Soooda"
+  },
   "keywords": [
+      "count",
+      "hit",
+      "hitcount",
+      "keycount",
+      "hit-count"
   ],
   "activationCommands": {
     "atom-workspace": "hit-count:toggle"
   },
-  "repository": "https://github.com/atom/hit-count",
+  "repository": "https://github.com/Soooda/hit-count",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
