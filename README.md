@@ -1,6 +1,6 @@
 # hit-count package
 
-Provide (graphic `hopefully`) feedback (first step) towards the number of hits to motivate your programming experience
+Provide (graphic **hopefully**) feedback towards the number of hits to motivate your programming experience
 
 ### Installation
 The package can be installed using Atom:
