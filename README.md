@@ -16,17 +16,17 @@ Have you ever played Devil May Cry(DMC)? What do ya think of the style ranking s
 This package provides similar functionality to rank your style. But of course, you are not
 kicking devils' arse anymore. Instead, it will rank your style of wrecking your keyboard. :smirk:
 
-You will receive a letter grade as long as you are pounding your lovely mechanical keyboard **constantly**,
+You will receive a letter grade AS LONG AS you pound your lovely mechanical keyboard **constantly**,
 and just like DMC, your rank will rise to SSS! YEET!
 
 Levels range through the following:
-* D - Dismal.
-* C - Crazy.
-* B - Badass.
-* A - Apocalyptic.
-* S - Savage.
-* SS - Sick skills.
-* SSS - smokin' sexy style.
+* D - **D**ismal.
+* C - **C**razy.
+* B - **B**adass.
+* A - **A**pocalyptic.
+* S - **S**avage.
+* SS - **S**ick **S**kills.
+* SSS - **S**mokin' **S**exy **S**tyle.
 
 At the end, my aim is to recreate the animation exactly the same as DMC in Atom. But yea, probably it is not
 to late for me to start reading how to write HELLO WORLD in Javascript. :yum:
