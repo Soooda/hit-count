@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle hit-count",
+        "command": "hit-count:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "hit-count",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "hit-count:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
