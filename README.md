@@ -17,7 +17,7 @@ This package provides similar functionality to rank your style. But of course, y
 kicking devils' arse anymore. Instead, it will **rank your style of wrecking your keyboard**. :smirk:
 
 You will receive a letter grade AS LONG AS you pound your lovely mechanical keyboard **constantly**,
-and just like DMC, your rank will rise to SSS! YEET!
+and just like DMC, your rank will rise to **SSS**! YEET!
 
 Levels range through the following:
 * D - **D**ismal.
